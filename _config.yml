@@ -1,4 +1,6 @@
-remote_theme: jekyll-bear-theme
+plugins:
+  - jekyll-remote-theme
+remote_theme: knhash/jekyllBear
 
 ###########
 
