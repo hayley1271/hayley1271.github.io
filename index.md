@@ -2,18 +2,9 @@
 
 ---
 
-# Hayley Baek
+# Site under construction 🛠️
+Please check back later! In the meantime, check out my other pages:
 
-Trying to create my own portfolio website
+[Github](https://github.com/hayley1271)
 
-## Education
-Education 1
-
-Educaiton 2
-
-## Experience
-Experience 1
-
-Experience 2
-Experience 3
-
+[LinkedIn](https://www.linkedin.com/in/hayley-baek/)
