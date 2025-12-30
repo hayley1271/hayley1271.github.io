@@ -46,7 +46,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: America/Los_Angeles
 future: false
 
 exclude:
@@ -55,8 +55,9 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
-Life: /life
+# Blog: /blog
+# Life: /life
+Projects: /projects
 
 # Add general links to site pages here
 links:
