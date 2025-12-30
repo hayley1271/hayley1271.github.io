@@ -6,8 +6,8 @@ remote_theme: knhash/jekyllBear
 
 title: test title
 description: test description
-hide_blog: True
-hide_life: True
+hide_blog: true
+hide_life: true
 
 
 #########################
