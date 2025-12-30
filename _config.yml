@@ -63,8 +63,10 @@ exclude: [vendor]
 
 # Add general links to site pages here
 links:
-  Projects: /projects/
-  Resume: /assets/resume.pdf
+  Github: https://github.com/hayley1271
+  LinkedIn: https://www.linkedin.com/in/hayley-baek
+  # Projects: /projects/
+  # Resume: /assets/resume.pdf
   
 
 # Add links for more focus here
