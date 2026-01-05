@@ -1,9 +1,7 @@
-Send me an email at hayleybaek (at) ucsd (dot) edu<br><br>
-
 Welcome to my website! Want to see a concise one-page pdf version of this page? Check out my [resume](/assets/resume.pdf)!
 
 ## Projects
-See [Projects](projects.md)
+See [Projects](projects.md)<br><br>
 
 ## Education
 **University of California San Diego** - MAS Data Science and Engineering
@@ -19,7 +17,7 @@ and Statistics, Data Visualization<br><br>
 
 Mathematics coursework: Data Analysis, Discrete Mathematics, Financial Mathematics, Numerical Analysis
 
-Computer Science coursework: Databases, Design & Analysis of Algorithms, Data Structures, Object-Oriented Programming
+Computer Science coursework: Databases, Design & Analysis of Algorithms, Data Structures, Object-Oriented Programming<br><br>
 
 ## Experience
 **American Institute for Behavioral Research and Technology** - Data Analyst Intern
